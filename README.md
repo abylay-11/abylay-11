@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @abylay-11
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning "Swift, JS, Vue, Flutter"
+- 🌱 I’m currently learning "Flutter, Dart"
+- 🧑‍💻 I had experience with technology "JS, Vue, React, NodeJs, HTML, CSS"
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "t.me/abylay11"
 
